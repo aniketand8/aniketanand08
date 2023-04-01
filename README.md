@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketanand08&label=Profile%20views&color=0e75b6&style=flat" alt="aniketanand08" /> </p>
+<img align="right" alt="codinggif" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 - 🔭 I’m currently working on **librarian**
 
